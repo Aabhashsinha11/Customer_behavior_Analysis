@@ -16,7 +16,7 @@ Creating business-ready reports and presentations
 
 📁 Dataset
 
-Source: (Mention dataset source – Kaggle / public dataset / internal dataset)
+Source: Kaggle
 
 Format: CSV
 
